@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Hi I'm Ji 😄
+[![Linkedin Badge](https://img.shields.io/badge/-JiPaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyeon-ji-paik/)](https://www.linkedin.com/in/jiyeon-ji-paik/)
+[![Email badge](https://img.shields.io/badge/-jyp.jiyeonpaik@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyp.jiyeonpaik)](mailto:jyp.jiyeonpaik)
+[![LeetCode Badge](https://img.shields.io/badge/-Jiii-black?style=flat-square&logo=LeetCode&link=https://leetcode.com/jiii/)](https://leetcode.com/jiii/)
+[![Dev Badge](https://img.shields.io/badge/-Ji-ff69b4?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/jidevops)](https://dev.to/jidevops)
 
-You can use the [editor on GitHub](https://github.com/JiDevOps/jidevops.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JiDevOps/jidevops.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+How are you? I'm a DevOps Engineer! 
