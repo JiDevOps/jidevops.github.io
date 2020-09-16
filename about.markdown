@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # Hi I'm Ji 😄
 [![Linkedin Badge](https://img.shields.io/badge/-JiPaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyeon-ji-paik/)](https://www.linkedin.com/in/jiyeon-ji-paik/)
 [![Email badge](https://img.shields.io/badge/-jyp.jiyeonpaik@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyp.jiyeonpaik)](mailto:jyp.jiyeonpaik)
