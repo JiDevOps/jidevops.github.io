@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Start of JiDevOps Blog!
+JiDevOps Blog 🍨🍩
