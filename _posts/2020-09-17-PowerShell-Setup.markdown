@@ -7,7 +7,7 @@ categories: PowerShell
 
 # Tools
 
-[Cmdlet](https://cmder.net/)
+[Cmder](https://cmder.net/)
 Console emulator on Windows.
 
 [Posh-git](https://github.com/dahlbyk/posh-git) PowerShell module that integrates Git and PowerShell.
