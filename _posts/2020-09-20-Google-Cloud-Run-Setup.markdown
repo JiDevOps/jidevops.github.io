@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Cloud Run Basics"
-date:   2020-09-17 17:00:00 +1200
+date:   2020-09-20 17:00:00 +1200
 categories: Azure
 ---
 
