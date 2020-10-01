@@ -2,7 +2,7 @@
 layout: post
 title:  "Build and Deploy to Google Cloud Run"
 date:   2020-09-20 17:00:00 +1200
-categories: Azure
+categories: Google Cloud Run
 ---
 ## Google Cloud Run
 
@@ -16,7 +16,7 @@ Install Google Cloud SDK from [here](https://cloud.google.com/sdk/docs/install).
 
 # Build and Deploy
 
-Project ID is the Google Cloud Prpject ID.
+Project ID is the Google Cloud Project ID.
 
 Set project configuration.
 
